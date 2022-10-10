@@ -19,7 +19,6 @@ if __name__ == '__main__':
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 <<<<<<< Updated upstream
-print('Купите наш товар изменения23')
-=======
-print('Купите наш товар изменения3')
+print('Купите наш товар изменения2023')
+
 >>>>>>> Stashed changes
